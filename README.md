@@ -1,4 +1,5 @@
 XIFT-AI Agent: Fitness Tracker Application
+
 This document outlines the implementation of the XIFT-AI Agent, a fitness tracking application that has moved from the conceptual stage to a working implementation. The application provides users with AI-driven insights and recommendations based on their logged workout and health data.
 
 
